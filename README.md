@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jonathansoong0297/IES-Demo/_apis/build/status/lukyhenry.sample-java?branchName=master)](https://dev.azure.com/jonathansoong0297/IES-Demo/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
